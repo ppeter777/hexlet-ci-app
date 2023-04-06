@@ -8,7 +8,7 @@ jobs:
       - name: Run Snyk to check for vulnerabilities
         uses: snyk/actions/node@master
         env:
-          SNYK_TOKEN: ${{ 51856478-626b-48fc-8e17-6778795f1afb.SNYK_TOKEN }}
+          SNYK_TOKEN: 51856478-626b-48fc-8e17-6778795f1afb
         with:
           args: --severity-threshold=high
       
