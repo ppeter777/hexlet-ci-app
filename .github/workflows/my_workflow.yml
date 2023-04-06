@@ -11,5 +11,7 @@ jobs:
           SNYK_TOKEN: 51856478-626b-48fc-8e17-6778795f1afb
         with:
           args: --severity-threshold=high
-          cache: 'npm'
+      - uses: actions/setup-node@v3
+        with:
+            cache: 'npm'
       
