@@ -1,4 +1,4 @@
-[![hello-world](https://github.com/ppeter777/hexlet-ci-app/actions/workflows/my_workflow.yml/badge.svg)](https://github.com/ppeter777/hexlet-ci-app/actions/workflows/my_workflow.yml)
+https://github.com/ppeter777/hexlet-ci-app/actions/workflows/my_workflow.yml/badge.svg
 
 # Example app for CI Hexlet course
 
